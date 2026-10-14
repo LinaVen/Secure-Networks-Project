@@ -52,10 +52,20 @@ It consists of one Cisco router, three switches, and six PCs, with VLAN segmenta
 
 ### Verification and Testing
 
-* Connectivity testing using Cisco IOS commands
-* VLAN verification
-* Trunk verification
-* Routing verification
+The following Cisco IOS commands can be used to verify the network configuration:
+
+| Command | Purpose |
+|---|---|
+| `show vlan brief` | Verify VLANs and assigned switch ports. |
+| `show interfaces trunk` | Check trunk links and allowed VLANs. |
+| `show ip interface brief` | Verify interface IP addresses and status. |
+| `show ip route` | Check the router's routing table. |
+| `show access-lists` | Inspect configured ACL rules. |
+| `show port-security` | Check port security status. |
+| `show ip ssh` | Verify SSH configuration. |
+| `ping` | Test connectivity between devices and VLANs. |
+
+These commands provide a way to check VLAN segmentation, inter-VLAN routing, trunk configuration, and network security.
 
 ## Skills Demonstrated
 
