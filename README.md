@@ -6,6 +6,14 @@ Cisco Packet Tracer networking project completed as part of the Secure Networks 
 
 This project involved designing and configuring a secure network using Cisco Packet Tracer. The network includes multiple VLANs, Router-on-a-Stick InterVLAN Routing, SSH remote management, Access Control Lists (ACLs), Port Security, and VLAN Trunking.
 
+## Network Topology
+
+The network was designed and configured using Cisco Packet Tracer 9.0.
+
+It consists of one Cisco router, three switches, and six PCs, with VLAN segmentation, inter-VLAN routing, and network security configurations.
+
+![Secure Networks Topology](network_topology.png)
+
 ## Network Components
 
 * 1 Cisco Router
