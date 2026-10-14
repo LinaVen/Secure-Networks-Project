@@ -67,9 +67,9 @@ This project involved designing and configuring a secure network using Cisco Pac
 
 ## Author
 
-Lina Venckuviene
+Lina Venckus (Venckuviene)
 
-Computer Science Student
+Computer Science Graduate
 
 Atlantic Technological University (ATU)
 
